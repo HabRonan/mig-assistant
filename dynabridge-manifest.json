@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "2.0",
+  "projectName": "DynaBridge Migration",
+  "projectOwner": "",
+  "createdAt": "2026-01-23T14:21:22.345Z",
+  "lastUpdatedAt": "2026-01-23T14:21:22.345Z",
+  "splunkSource": {
+    "exportedAt": "",
+    "splunkVersion": "",
+    "exportScriptVersion": "",
+    "archiveVersion": "v1"
+  },
+  "migrationStatus": {
+    "totalApps": 0,
+    "totalDashboards": 0,
+    "totalAlerts": 0,
+    "totalLookups": 0,
+    "convertedDashboards": 0,
+    "convertedAlerts": 0,
+    "convertedLookups": 0
+  },
+  "apps": []
+}
