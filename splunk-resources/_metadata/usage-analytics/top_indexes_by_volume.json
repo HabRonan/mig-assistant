@@ -1,0 +1,110 @@
+[
+  {
+    "index": "security_logs",
+    "name": "security_logs",
+    "idx": "security_logs",
+    "total_gb": 283,
+    "total_bytes": 303868936192,
+    "daily_avg_gb": 8.42,
+    "rank": 1
+  },
+  {
+    "index": "wineventlog",
+    "name": "wineventlog",
+    "idx": "wineventlog",
+    "total_gb": 197,
+    "total_bytes": 210453397504,
+    "daily_avg_gb": 6.8,
+    "rank": 2
+  },
+  {
+    "index": "network_logs",
+    "name": "network_logs",
+    "idx": "network_logs",
+    "total_gb": 178,
+    "total_bytes": 196494753792,
+    "daily_avg_gb": 6.12,
+    "rank": 3
+  },
+  {
+    "index": "sysmon",
+    "name": "sysmon",
+    "idx": "sysmon",
+    "total_gb": 158,
+    "total_bytes": 169651208192,
+    "daily_avg_gb": 5.88,
+    "rank": 4
+  },
+  {
+    "index": "main",
+    "name": "main",
+    "idx": "main",
+    "total_gb": 154,
+    "total_bytes": 156766306304,
+    "daily_avg_gb": 4.6,
+    "rank": 5
+  },
+  {
+    "index": "container_logs",
+    "name": "container_logs",
+    "idx": "container_logs",
+    "total_gb": 120,
+    "total_bytes": 125627793408,
+    "daily_avg_gb": 4.04,
+    "rank": 6
+  },
+  {
+    "index": "app_logs",
+    "name": "app_logs",
+    "idx": "app_logs",
+    "total_gb": 99,
+    "total_bytes": 106300440576,
+    "daily_avg_gb": 3.18,
+    "rank": 7
+  },
+  {
+    "index": "cloud_logs",
+    "name": "cloud_logs",
+    "idx": "cloud_logs",
+    "total_gb": 94,
+    "total_bytes": 92341796864,
+    "daily_avg_gb": 2.81,
+    "rank": 8
+  },
+  {
+    "index": "_internal",
+    "name": "_internal",
+    "idx": "_internal",
+    "total_gb": 65,
+    "total_bytes": 65498251264,
+    "daily_avg_gb": 2.13,
+    "rank": 9
+  },
+  {
+    "index": "web_errors",
+    "name": "web_errors",
+    "idx": "web_errors",
+    "total_gb": 41,
+    "total_bytes": 42949672960,
+    "daily_avg_gb": 1.5,
+    "rank": 10
+  },
+  {
+    "index": "_introspection",
+    "name": "_introspection",
+    "idx": "_introspection",
+    "total_gb": 29,
+    "total_bytes": 27917287424,
+    "daily_avg_gb": 1.08,
+    "rank": 11
+  },
+  {
+    "index": "_audit",
+    "name": "_audit",
+    "idx": "_audit",
+    "total_gb": 12,
+    "total_bytes": 19327352832,
+    "daily_avg_gb": 0.03,
+    "rank": 12
+  }
+]

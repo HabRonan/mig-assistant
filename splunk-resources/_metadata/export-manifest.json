@@ -1,0 +1,175 @@
+{
+  "schema_version": "3.4",
+  "export_tool": "dynabridge-splunk-export",
+  "export_tool_version": "4.1.0",
+  "export_timestamp": "2026-01-05T05:45:47Z",
+  "export_duration_seconds": 415,
+  "source": {
+    "hostname": "splunk-c99595cf7-l4spq",
+    "fqdn": "splunk-c99595cf7-l4spq",
+    "platform": "Linux",
+    "platform_version": "5.15.0-1101-azure",
+    "architecture": "x86_64"
+  },
+  "splunk": {
+    "home": "/opt/splunk",
+    "version": "9.1.10",
+    "build": "a6ea9b30f817",
+    "flavor": "enterprise",
+    "role": "deployment_server",
+    "architecture": "standalone",
+    "is_shc_member": false,
+    "is_shc_captain": false,
+    "is_idx_cluster": false,
+    "is_cloud": false
+  },
+  "collection": {
+    "configs": true,
+    "dashboards": true,
+    "alerts": true,
+    "rbac": true,
+    "usage_analytics": true,
+    "usage_period": "30d",
+    "indexes": true,
+    "lookups": false,
+    "audit_sample": false,
+    "data_anonymized": true
+  },
+  "statistics": {
+    "apps_exported": 13,
+    "dashboards_classic": 213,
+    "dashboards_studio": 78,
+    "dashboards_total": 291,
+    "alerts": 157,
+    "saved_searches": 165,
+    "users": 1,
+    "roles": 0,
+    "indexes": 0,
+    "macros": 196,
+    "props_stanzas": 105,
+    "transforms_stanzas": 189,
+    "errors": 2,
+    "total_files": 723,
+    "total_size_bytes": 19527917
+  },
+  "apps": [
+    {
+      "name": "TA-TC-Sysmon",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": true,
+      "has_transforms": true,
+      "has_lookups": false
+    },
+    {
+      "name": "ThreatHunting",
+      "dashboards": 35,
+      "alerts": 149,
+      "saved_searches": 151,
+      "has_props": true,
+      "has_transforms": true,
+      "has_lookups": false
+    },
+    {
+      "name": "alert_logevent",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "alert_webhook",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "dashboards_classic",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "dashboards_studio",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "dashboards_studio_examples",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "dynabridge_analytics",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "dynabridge_test",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": true,
+      "has_transforms": true,
+      "has_lookups": false
+    },
+    {
+      "name": "security_content",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "splunk-dashboard-studio",
+      "dashboards": 78,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    },
+    {
+      "name": "splunk_monitoring_console",
+      "dashboards": 124,
+      "alerts": 8,
+      "saved_searches": 14,
+      "has_props": true,
+      "has_transforms": true,
+      "has_lookups": false
+    },
+    {
+      "name": "splunk_quick_health_check",
+      "dashboards": 0,
+      "alerts": 0,
+      "saved_searches": 0,
+      "has_props": false,
+      "has_transforms": false,
+      "has_lookups": false
+    }
+  ],
+  "usage_intelligence": {}
+}

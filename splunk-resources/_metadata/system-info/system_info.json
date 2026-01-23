@@ -1,0 +1,1991 @@
+{
+  "searchPeers": [],
+  "installedApps": [
+    {
+      "name": "alert_logevent",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/alert_logevent",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/alert_logevent",
+        "list": "/servicesNS/nobody/system/apps/local/alert_logevent",
+        "_reload": "/servicesNS/nobody/system/apps/local/alert_logevent/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/alert_logevent",
+        "remove": "/servicesNS/nobody/system/apps/local/alert_logevent",
+        "disable": "/servicesNS/nobody/system/apps/local/alert_logevent/disable",
+        "package": "/servicesNS/nobody/system/apps/local/alert_logevent/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "Log Event Alert Action",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Log Event Alert Action",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "9.1.10",
+        "visible": false
+      }
+    },
+    {
+      "name": "alert_webhook",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/alert_webhook",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/alert_webhook",
+        "list": "/servicesNS/nobody/system/apps/local/alert_webhook",
+        "_reload": "/servicesNS/nobody/system/apps/local/alert_webhook/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/alert_webhook",
+        "remove": "/servicesNS/nobody/system/apps/local/alert_webhook",
+        "disable": "/servicesNS/nobody/system/apps/local/alert_webhook/disable",
+        "package": "/servicesNS/nobody/system/apps/local/alert_webhook/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "Webhook Alert Action",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Webhook Alert Action",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "9.1.10",
+        "visible": false
+      }
+    },
+    {
+      "name": "appsbrowser",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/appsbrowser",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/appsbrowser",
+        "list": "/servicesNS/nobody/system/apps/local/appsbrowser",
+        "_reload": "/servicesNS/nobody/system/apps/local/appsbrowser/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/appsbrowser",
+        "package": "/servicesNS/nobody/system/apps/local/appsbrowser/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "Browse apps available to install.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Apps Browser",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "9.1.10",
+        "visible": false
+      }
+    },
+    {
+      "name": "dynabridge_test",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/dynabridge_test",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/dynabridge_test",
+        "list": "/servicesNS/nobody/system/apps/local/dynabridge_test",
+        "_reload": "/servicesNS/nobody/system/apps/local/dynabridge_test/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/dynabridge_test",
+        "remove": "/servicesNS/nobody/system/apps/local/dynabridge_test",
+        "disable": "/servicesNS/nobody/system/apps/local/dynabridge_test/disable",
+        "package": "/servicesNS/nobody/system/apps/local/dynabridge_test/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "*"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Dynabridge",
+        "check_for_updates": true,
+        "configured": true,
+        "core": false,
+        "description": "Test configurations for Dynabridge migration testing",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Dynabridge Test Data",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.0.0",
+        "visible": true
+      }
+    },
+    {
+      "name": "introspection_generator_addon",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/introspection_generator_addon",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/introspection_generator_addon",
+        "list": "/servicesNS/nobody/system/apps/local/introspection_generator_addon",
+        "_reload": "/servicesNS/nobody/system/apps/local/introspection_generator_addon/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/introspection_generator_addon",
+        "remove": "/servicesNS/nobody/system/apps/local/introspection_generator_addon",
+        "disable": "/servicesNS/nobody/system/apps/local/introspection_generator_addon/disable",
+        "package": "/servicesNS/nobody/system/apps/local/introspection_generator_addon/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "admin"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "Affords and supports the Platform Instrumentation initiative.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "introspection_generator_addon",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "9.1.10",
+        "visible": false
+      }
+    },
+    {
+      "name": "journald_input",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/journald_input",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/journald_input",
+        "list": "/servicesNS/nobody/system/apps/local/journald_input",
+        "_reload": "/servicesNS/nobody/system/apps/local/journald_input/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/journald_input",
+        "remove": "/servicesNS/nobody/system/apps/local/journald_input",
+        "disable": "/servicesNS/nobody/system/apps/local/journald_input/disable",
+        "package": "/servicesNS/nobody/system/apps/local/journald_input/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "journald_input",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "launcher",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/launcher",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/launcher",
+        "list": "/servicesNS/nobody/system/apps/local/launcher",
+        "_reload": "/servicesNS/nobody/system/apps/local/launcher/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/launcher",
+        "package": "/servicesNS/nobody/system/apps/local/launcher/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Home",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "supported_themes": "light,dark",
+        "visible": true
+      }
+    },
+    {
+      "name": "learned",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/learned",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/learned",
+        "list": "/servicesNS/nobody/system/apps/local/learned",
+        "_reload": "/servicesNS/nobody/system/apps/local/learned/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/learned",
+        "remove": "/servicesNS/nobody/system/apps/local/learned",
+        "disable": "/servicesNS/nobody/system/apps/local/learned/disable",
+        "package": "/servicesNS/nobody/system/apps/local/learned/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "*"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "learned",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "legacy",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/legacy",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/legacy",
+        "list": "/servicesNS/nobody/system/apps/local/legacy",
+        "_reload": "/servicesNS/nobody/system/apps/local/legacy/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/legacy",
+        "remove": "/servicesNS/nobody/system/apps/local/legacy",
+        "enable": "/servicesNS/nobody/system/apps/local/legacy/enable",
+        "package": "/servicesNS/nobody/system/apps/local/legacy/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": true,
+        "eai:acl": null,
+        "label": "legacy",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "python_upgrade_readiness_app",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app",
+        "list": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app",
+        "_reload": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app",
+        "remove": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app",
+        "disable": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app/disable",
+        "package": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app/package",
+        "update": "/servicesNS/nobody/system/apps/local/python_upgrade_readiness_app/update"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "admin",
+            "sc_admin"
+          ],
+          "write": [
+            "admin",
+            "sc_admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk Inc.",
+        "build": 124,
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "Use this app to prepare your Splunk platform instance for upgrade to the version that includes the Python 3.7 runtime and jQuery 3.5 and above.",
+        "details": "https://apps.splunk.com/apps/id/python_upgrade_readiness_app",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Upgrade Readiness App",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "update.appurl": "https://splunkbase.splunk.com/app/5483/release/4.7.0/download/?origin=cfu",
+        "update.checksum": "a92f36c56cbd91981cbb60342b2ddc4fc32a0282b1dcd70b6a03f92fc514d6ac",
+        "update.checksum.type": "sha256",
+        "update.homepage": "https://splunkbase.splunk.com/app/5483/",
+        "update.implicit_id_required": false,
+        "update.name": "Upgrade Readiness App",
+        "update.size": 31774,
+        "update.version": "4.7.0",
+        "version": "4.6.2",
+        "visible": true
+      }
+    },
+    {
+      "name": "sample_app",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/sample_app",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/sample_app",
+        "list": "/servicesNS/nobody/system/apps/local/sample_app",
+        "_reload": "/servicesNS/nobody/system/apps/local/sample_app/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/sample_app",
+        "remove": "/servicesNS/nobody/system/apps/local/sample_app",
+        "enable": "/servicesNS/nobody/system/apps/local/sample_app/enable",
+        "package": "/servicesNS/nobody/system/apps/local/sample_app/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": true,
+        "eai:acl": null,
+        "label": "sample data",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "search",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/search",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/search",
+        "list": "/servicesNS/nobody/system/apps/local/search",
+        "_reload": "/servicesNS/nobody/system/apps/local/search/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/search",
+        "package": "/servicesNS/nobody/system/apps/local/search/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "The Search app is Splunk's default interface for searching and analyzing IT data. It allows you to index data into Splunk, add knowledge, build reports, and create alerts. The Search app can be used across many areas of IT including application management, operations management, security, and compliance.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Search & Reporting",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "supported_themes": "light,dark",
+        "version": "9.1.10",
+        "visible": true
+      }
+    },
+    {
+      "name": "security_content",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/security_content",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/security_content",
+        "list": "/servicesNS/nobody/system/apps/local/security_content",
+        "_reload": "/servicesNS/nobody/system/apps/local/security_content/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/security_content",
+        "remove": "/servicesNS/nobody/system/apps/local/security_content",
+        "disable": "/servicesNS/nobody/system/apps/local/security_content/disable",
+        "package": "/servicesNS/nobody/system/apps/local/security_content/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "*"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": false,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "security_content",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk-dashboard-studio",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk-dashboard-studio",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio",
+        "list": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk-dashboard-studio/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "build": 30718833088,
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "Splunk dashboard studio",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Dashboard Studio",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "1.11.12",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk-rolling-upgrade",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade",
+        "list": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk-rolling-upgrade/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "splunk_system_upgrader"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "build": 1,
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "SplunkRollingUpgrade",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Rolling Upgrade",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "1.0.5",
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_archiver",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_archiver",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_archiver",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_archiver",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_archiver/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_archiver",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_archiver",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_archiver/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_archiver/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk Inc",
+        "check_for_updates": true,
+        "configured": true,
+        "core": true,
+        "description": "App for providing Splunk bucket archiving functionality to Hadoop compatible filesystems",
+        "details": "https://apps.splunk.com/apps/id/splunk_archiver",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Archiver App",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.0",
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_enterprise_on_docker",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_enterprise_on_docker/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": true,
+        "core": false,
+        "description": "When telemetry is enabled, this app is used to help Splunk understand how many customers are running our products within Docker containers.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Enterprise On Docker",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.0.0",
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_gdi",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_gdi",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_gdi",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_gdi",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_gdi/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_gdi",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_gdi/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "build": 0,
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "Splunk Get Data In",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Get Data In",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "1.0.6",
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_httpinput",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_httpinput",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_httpinput",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_httpinput",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_httpinput/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_httpinput",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_httpinput",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_httpinput/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_httpinput/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "splunk_httpinput",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_ingest_actions",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_ingest_actions",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_ingest_actions/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": false,
+        "disabled": false,
+        "eai:acl": null,
+        "label": "splunk_ingest_actions",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_instrumentation",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_instrumentation",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_instrumentation",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_instrumentation",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_instrumentation/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_instrumentation",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_instrumentation/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "This application connects the hosting Splunk instance to Splunk's usage data collection services.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Instrumentation",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "8.0.2",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk_internal_metrics",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_internal_metrics",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_internal_metrics/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "Clones, converts and stores various internal splunk logs into _metrics index",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Clones Internal Metrics into Metrics Index",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "splunk_metrics_workspace",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_metrics_workspace",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_metrics_workspace/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "build": 100843680,
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "Compare trends in time series",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Analytics Workspace",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "supported_themes": "light,dark",
+        "version": "2.49.1",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk_monitoring_console",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_monitoring_console",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_monitoring_console/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "admin"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk",
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "The Splunk Monitoring Console application gives you insight into your Splunk deployment.",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Monitoring Console",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "10.3.1",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk_quick_health_check",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_quick_health_check",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_quick_health_check/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "*"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "DynaBridge Test Data",
+        "check_for_updates": true,
+        "configured": false,
+        "core": false,
+        "description": "Quick health assessment dashboards for Splunk environment monitoring. Contains check dashboards for core system health, data quality, disk usage, search performance, and queue monitoring.",
+        "details": "https://apps.splunk.com/apps/id/splunk_quick_health_check",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Quick Health Check",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.0.0",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk_rapid_diag",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_rapid_diag",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_rapid_diag/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "admin"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk, Inc.",
+        "build": 11234380,
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "description": "Splunk RapidDiag",
+        "disabled": false,
+        "docs_section_override": "SplunkRapidDiag:1.8.0",
+        "eai:acl": null,
+        "label": "Splunk RapidDiag",
+        "managed_by_deployment_client": false,
+        "show_in_nav": false,
+        "state_change_requires_restart": false,
+        "version": "1.8.0",
+        "visible": true
+      }
+    },
+    {
+      "name": "splunk_secure_gateway",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/splunk_secure_gateway",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway",
+        "list": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway",
+        "_reload": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway",
+        "remove": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway",
+        "disable": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway/disable",
+        "package": "/servicesNS/nobody/system/apps/local/splunk_secure_gateway/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin",
+            "sc_admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "author": "Splunk Inc.",
+        "build": 134896830,
+        "check_for_updates": false,
+        "configured": false,
+        "core": true,
+        "description": "Splunk Secure Gateway",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "Splunk Secure Gateway",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "3.7.25",
+        "visible": true
+      }
+    },
+    {
+      "name": "SplunkForwarder",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/SplunkForwarder",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/SplunkForwarder",
+        "list": "/servicesNS/nobody/system/apps/local/SplunkForwarder",
+        "_reload": "/servicesNS/nobody/system/apps/local/SplunkForwarder/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/SplunkForwarder",
+        "remove": "/servicesNS/nobody/system/apps/local/SplunkForwarder",
+        "enable": "/servicesNS/nobody/system/apps/local/SplunkForwarder/enable",
+        "package": "/servicesNS/nobody/system/apps/local/SplunkForwarder/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": true,
+        "eai:acl": null,
+        "label": "SplunkForwarder",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "SplunkLightForwarder",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/SplunkLightForwarder",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder",
+        "list": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder",
+        "_reload": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder",
+        "remove": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder",
+        "enable": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder/enable",
+        "package": "/servicesNS/nobody/system/apps/local/SplunkLightForwarder/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "power"
+          ]
+        },
+        "removable": false,
+        "sharing": "app"
+      },
+      "content": {
+        "check_for_updates": true,
+        "configured": false,
+        "core": true,
+        "disabled": true,
+        "eai:acl": null,
+        "label": "SplunkLightForwarder",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "visible": false
+      }
+    },
+    {
+      "name": "TA-TC-Sysmon",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/TA-TC-Sysmon",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon",
+        "list": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon",
+        "_reload": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon",
+        "remove": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon",
+        "disable": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon/disable",
+        "package": "/servicesNS/nobody/system/apps/local/TA-TC-Sysmon/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "global"
+      },
+      "content": {
+        "check_for_updates": false,
+        "configured": true,
+        "core": false,
+        "description": "Provides field extractions and data optimization for Microsoft Sysmon 14.13",
+        "details": "https://apps.splunk.com/apps/id/TA-TC-Sysmon",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "TC Sysmon Add-on",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.1-sysmon-14.13",
+        "visible": false
+      }
+    },
+    {
+      "name": "ThreatHunting",
+      "id": "https://localhost:8089/servicesNS/nobody/system/apps/local/ThreatHunting",
+      "updated": "1970-01-01T00:00:00+00:00",
+      "links": {
+        "alternate": "/servicesNS/nobody/system/apps/local/ThreatHunting",
+        "list": "/servicesNS/nobody/system/apps/local/ThreatHunting",
+        "_reload": "/servicesNS/nobody/system/apps/local/ThreatHunting/_reload",
+        "edit": "/servicesNS/nobody/system/apps/local/ThreatHunting",
+        "remove": "/servicesNS/nobody/system/apps/local/ThreatHunting",
+        "disable": "/servicesNS/nobody/system/apps/local/ThreatHunting/disable",
+        "package": "/servicesNS/nobody/system/apps/local/ThreatHunting/package"
+      },
+      "author": "nobody",
+      "acl": {
+        "app": "system",
+        "can_change_perms": true,
+        "can_list": true,
+        "can_share_app": true,
+        "can_share_global": true,
+        "can_share_user": false,
+        "can_write": true,
+        "modifiable": true,
+        "owner": "nobody",
+        "perms": {
+          "read": [
+            "*"
+          ],
+          "write": [
+            "admin"
+          ]
+        },
+        "removable": false,
+        "sharing": "global"
+      },
+      "content": {
+        "author": "Olaf Hartong",
+        "check_for_updates": true,
+        "configured": false,
+        "core": false,
+        "description": "A Splunk app mapped to MITRE ATT&CK to guide your threat hunts",
+        "details": "https://apps.splunk.com/apps/id/ThreatHunting",
+        "disabled": false,
+        "eai:acl": null,
+        "label": "ThreatHunting",
+        "managed_by_deployment_client": false,
+        "show_in_nav": true,
+        "state_change_requires_restart": false,
+        "version": "1.5.1",
+        "visible": true
+      }
+    }
+  ],
+  "environment": {
+    "hostname": "splunk-c99595cf7-l4spq",
+    "platform": "Linux",
+    "platformVersion": "5.15.0-1101-azure",
+    "architecture": "x86_64",
+    "splunkHome": "/opt/splunk",
+    "splunkFlavor": "enterprise",
+    "splunkRole": "deployment_server",
+    "splunkArchitecture": "standalone",
+    "exportTimestamp": "2026-01-05T05:42:16Z",
+    "exportVersion": "4.1.0"
+  },
+  "licenseInfo": {
+    "links": {
+      "create": "/services/licenser/licenses/_new"
+    },
+    "origin": "https://localhost:8089/services/licenser/licenses",
+    "updated": "2026-01-05T05:42:16+00:00",
+    "generator": {
+      "build": "a6ea9b30f817",
+      "version": "9.1.10"
+    },
+    "entry": [
+      {
+        "name": "5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B",
+        "id": "https://localhost:8089/services/licenser/licenses/5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B",
+        "updated": "1970-01-01T00:00:00+00:00",
+        "links": {
+          "alternate": "/services/licenser/licenses/5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B",
+          "list": "/services/licenser/licenses/5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B",
+          "edit": "/services/licenser/licenses/5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B"
+        },
+        "author": "system",
+        "acl": {
+          "app": "",
+          "can_list": true,
+          "can_write": true,
+          "modifiable": false,
+          "owner": "system",
+          "perms": {
+            "read": [
+              "admin",
+              "splunk-system-role"
+            ],
+            "write": [
+              "admin",
+              "splunk-system-role"
+            ]
+          },
+          "removable": false,
+          "sharing": "system"
+        },
+        "content": {
+          "add_ons": {
+            "hadoop": {
+              "erp_type": "report",
+              "guid": "6F416E61-B40E-461C-A782-CBC186E98133",
+              "maxNodes": "200"
+            }
+          },
+          "allowedRoles": [],
+          "assignableRoles": [],
+          "creation_time": 1571036400,
+          "disabled_features": [],
+          "eai:acl": null,
+          "expiration_time": 1770571996,
+          "features": [
+            "Acceleration",
+            "AdvancedSearchCommands",
+            "AdvancedXML",
+            "Alerting",
+            "AllowDuplicateKeys",
+            "ArchiveToHdfs",
+            "Auth",
+            "ConditionalLicensingEnforcement",
+            "CustomRoles",
+            "DeployClient",
+            "DeployServer",
+            "DistSearch",
+            "FwdData",
+            "GuestPass",
+            "KVStore",
+            "LDAPAuth",
+            "LocalSearch",
+            "MultifactorAuth",
+            "MultisiteClustering",
+            "NontableLookups",
+            "RcvData",
+            "RcvSearch",
+            "RollingWindowAlerts",
+            "SAMLAuth",
+            "ScheduledAlerts",
+            "ScheduledReports",
+            "ScheduledSearch",
+            "ScriptedAuth",
+            "SearchheadPooling",
+            "SigningProcessor",
+            "SplunkWeb",
+            "SyslogOutputProcessor",
+            "UnisiteClustering"
+          ],
+          "group_id": "Trial",
+          "guid": "6F416E61-B40E-461C-A782-CBC186E98133",
+          "is_unlimited": false,
+          "label": "Splunk Enterprise   Splunk Analytics for Hadoop Download Trial",
+          "license_hash": "5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B",
+          "max_retention_size": 0,
+          "max_stack_quota": 18446744073709552000,
+          "max_users": 0,
+          "max_violations": 5,
+          "notes": "",
+          "quota": 524288000,
+          "relative_expiration_interval": 5184000,
+          "relative_expiration_start": 1765387996,
+          "sourcetypes": [],
+          "stack_id": "download-trial",
+          "status": "VALID",
+          "subgroup_id": "Production",
+          "type": "download-trial",
+          "window_period": 30
+        }
+      },
+      {
+        "name": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD",
+        "id": "https://localhost:8089/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD",
+        "updated": "1970-01-01T00:00:00+00:00",
+        "links": {
+          "alternate": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD",
+          "list": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD",
+          "edit": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD"
+        },
+        "author": "system",
+        "acl": {
+          "app": "",
+          "can_list": true,
+          "can_write": true,
+          "modifiable": false,
+          "owner": "system",
+          "perms": {
+            "read": [
+              "admin",
+              "splunk-system-role"
+            ],
+            "write": [
+              "admin",
+              "splunk-system-role"
+            ]
+          },
+          "removable": false,
+          "sharing": "system"
+        },
+        "content": {
+          "add_ons": null,
+          "allowedRoles": [],
+          "assignableRoles": [],
+          "creation_time": 1277017200,
+          "disabled_features": [
+            "Acceleration",
+            "AdvancedSearchCommands",
+            "AdvancedXML",
+            "ArchiveToHdfs",
+            "ConditionalLicensingEnforcement",
+            "CustomRoles",
+            "GuestPass",
+            "KVStore",
+            "LDAPAuth",
+            "MultifactorAuth",
+            "MultisiteClustering",
+            "NontableLookups",
+            "RollingWindowAlerts",
+            "SAMLAuth",
+            "ScheduledAlerts",
+            "ScheduledReports",
+            "ScriptedAuth",
+            "SearchheadPooling",
+            "UnisiteClustering"
+          ],
+          "eai:acl": null,
+          "expiration_time": 2147483647,
+          "features": [
+            "Auth",
+            "DeployClient",
+            "FwdData",
+            "RcvData",
+            "SigningProcessor",
+            "SplunkWeb",
+            "SyslogOutputProcessor"
+          ],
+          "group_id": "Forwarder",
+          "guid": "11111111-1111-1111-1111-111111111111",
+          "is_unlimited": false,
+          "label": "Splunk Forwarder",
+          "license_hash": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD",
+          "max_retention_size": 0,
+          "max_stack_quota": 18446744073709552000,
+          "max_users": 4294967295,
+          "max_violations": 5,
+          "notes": "",
+          "quota": 1048576,
+          "relative_expiration_interval": 0,
+          "relative_expiration_start": 0,
+          "sourcetypes": [],
+          "stack_id": "forwarder",
+          "status": "VALID",
+          "subgroup_id": "Production",
+          "type": "forwarder",
+          "window_period": 30
+        }
+      },
+      {
+        "name": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "id": "https://localhost:8089/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+        "updated": "1970-01-01T00:00:00+00:00",
+        "links": {
+          "alternate": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+          "list": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+          "edit": "/services/licenser/licenses/FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        "author": "system",
+        "acl": {
+          "app": "",
+          "can_list": true,
+          "can_write": true,
+          "modifiable": false,
+          "owner": "system",
+          "perms": {
+            "read": [
+              "admin",
+              "splunk-system-role"
+            ],
+            "write": [
+              "admin",
+              "splunk-system-role"
+            ]
+          },
+          "removable": false,
+          "sharing": "system"
+        },
+        "content": {
+          "add_ons": null,
+          "allowedRoles": [],
+          "assignableRoles": [],
+          "creation_time": 1277017200,
+          "disabled_features": [
+            "Acceleration",
+            "AdvancedSearchCommands",
+            "AdvancedXML",
+            "ArchiveToHdfs",
+            "ConditionalLicensingEnforcement",
+            "CustomRoles",
+            "GuestPass",
+            "LDAPAuth",
+            "MultifactorAuth",
+            "MultisiteClustering",
+            "NontableLookups",
+            "RollingWindowAlerts",
+            "SAMLAuth",
+            "ScheduledAlerts",
+            "ScheduledReports",
+            "ScriptedAuth",
+            "SearchheadPooling",
+            "UnisiteClustering"
+          ],
+          "eai:acl": null,
+          "expiration_time": 2147483647,
+          "features": [
+            "FwdData",
+            "KVStore",
+            "LocalSearch",
+            "RcvData",
+            "ScheduledSearch",
+            "SigningProcessor",
+            "SplunkWeb"
+          ],
+          "group_id": "Free",
+          "guid": "00000000-0000-0000-0000-000000000000",
+          "is_unlimited": false,
+          "label": "Splunk Free",
+          "license_hash": "FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF",
+          "max_retention_size": 0,
+          "max_stack_quota": 18446744073709552000,
+          "max_users": 4294967295,
+          "max_violations": 3,
+          "notes": "",
+          "quota": 524288000,
+          "relative_expiration_interval": 0,
+          "relative_expiration_start": 0,
+          "sourcetypes": [],
+          "stack_id": "free",
+          "status": "VALID",
+          "subgroup_id": "Production",
+          "type": "free",
+          "window_period": 30
+        }
+      }
+    ],
+    "paging": {
+      "total": 3,
+      "perPage": 30,
+      "offset": 0
+    },
+    "messages": []
+  },
+  "serverInfo": {
+    "links": {},
+    "origin": "https://localhost:8089/services/server/info",
+    "updated": "2026-01-05T05:42:16+00:00",
+    "generator": {
+      "build": "a6ea9b30f817",
+      "version": "9.1.10"
+    },
+    "entry": [
+      {
+        "name": "server-info",
+        "id": "https://localhost:8089/services/server/info/server-info",
+        "updated": "1970-01-01T00:00:00+00:00",
+        "links": {
+          "alternate": "/services/server/info/server-info",
+          "list": "/services/server/info/server-info"
+        },
+        "author": "system",
+        "acl": {
+          "app": "",
+          "can_list": true,
+          "can_write": true,
+          "modifiable": false,
+          "owner": "system",
+          "perms": {
+            "read": [
+              "*"
+            ],
+            "write": []
+          },
+          "removable": false,
+          "sharing": "system"
+        },
+        "content": {
+          "activeLicenseGroup": "Trial",
+          "activeLicenseSubgroup": "Production",
+          "addOns": {
+            "hadoop": {
+              "parameters": {
+                "erp_type": "report",
+                "guid": "6F416E61-B40E-461C-A782-CBC186E98133",
+                "maxNodes": "200"
+              },
+              "type": "external_results_provider"
+            }
+          },
+          "build": "a6ea9b30f817",
+          "conf_generation": 4,
+          "cpu_arch": "x86_64",
+          "eai:acl": null,
+          "federated_search_enabled": true,
+          "fips_mode": false,
+          "guid": "688096D5-FB88-4349-A57E-D983DDAD81D9",
+          "health_info": "green",
+          "health_version": 994631206,
+          "host": "splunk-c99595cf7-l4spq",
+          "host_fqdn": "splunk-c99595cf7-l4spq",
+          "host_resolved": "splunk-c99595cf7-l4spq",
+          "isConverged": false,
+          "isForwarding": false,
+          "isFree": false,
+          "isTrial": true,
+          "kvStoreStatus": "ready",
+          "licenseKeys": [
+            "5C52DA5145AD67B8188604C49962D12F2C3B2CF1B82A6878E46F68CA2812807B"
+          ],
+          "licenseSignature": "47d1df460a2d9f6908ed797ed1533f13",
+          "licenseState": "OK",
+          "license_labels": [
+            "Splunk Enterprise   Splunk Analytics for Hadoop Download Trial"
+          ],
+          "manager_guid": "688096D5-FB88-4349-A57E-D983DDAD81D9",
+          "manager_uri": "self",
+          "master_guid": "688096D5-FB88-4349-A57E-D983DDAD81D9",
+          "master_uri": "self",
+          "max_users": 4294967295,
+          "mode": "normal",
+          "numberOfCores": 2,
+          "numberOfVirtualCores": 4,
+          "os_build": "#110-Ubuntu SMP Wed Nov 19 02:16:35 UTC 2025",
+          "os_name": "Linux",
+          "os_name_extended": "Linux",
+          "os_version": "5.15.0-1101-azure",
+          "physicalMemoryMB": 15986,
+          "product_type": "enterprise",
+          "rtsearch_enabled": true,
+          "serverName": "splunk-c99595cf7-l4spq",
+          "server_roles": [
+            "indexer",
+            "license_master",
+            "license_manager",
+            "kv_store"
+          ],
+          "shutting_down": "0",
+          "startup_time": 1767588615,
+          "staticAssetId": "1E48F40B5D724F5D0D62C8D98482086141FC26B2329BC7A671311896D0E3E3BC",
+          "version": "9.1.10"
+        }
+      }
+    ],
+    "paging": {
+      "total": 1,
+      "perPage": 30,
+      "offset": 0
+    },
+    "messages": []
+  }
+}

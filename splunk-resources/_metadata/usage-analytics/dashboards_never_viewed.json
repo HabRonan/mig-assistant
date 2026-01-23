@@ -1,0 +1,142 @@
+[
+  {
+    "dashboard": "Orphaned Scheduled Searches, Reports, and Alerts",
+    "name": "Orphaned Scheduled Searches, Reports, and Alerts",
+    "app": "search",
+    "owner": "nobody",
+    "created": "2025-11-07T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Report Builder",
+    "name": "Report Builder",
+    "app": "search",
+    "owner": "nobody",
+    "created": "2025-11-18T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Setting Scan",
+    "name": "Setting Scan",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "created": "2025-11-26T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Newly observed hashes",
+    "name": "Newly observed hashes",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "created": "2025-11-04T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Chart Coloring",
+    "name": "Chart Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-12-01T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Search Head Clustering: Status and Configuration",
+    "name": "Search Head Clustering: Status and Configuration",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-10-08T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Refresh",
+    "name": "Refresh",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-12-06T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "HTTP Event Collector: Instance",
+    "name": "HTTP Event Collector: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-12-06T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Map",
+    "name": "Map",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-12-03T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "File Access whitelist editor",
+    "name": "File Access whitelist editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "created": "2025-11-22T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Volume Detail: Deployment",
+    "name": "Volume Detail: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-11-07T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Search Head Clustering: Scheduler Delegation",
+    "name": "Search Head Clustering: Scheduler Delegation",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-12-06T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Buttercup Games",
+    "name": "Buttercup Games",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-11-03T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Resource Usage: Machine",
+    "name": "Resource Usage: Machine",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-10-24T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Indexing Performance: Advanced",
+    "name": "Indexing Performance: Advanced",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-11-11T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "SmartStore Cache Performance: Deployment",
+    "name": "SmartStore Cache Performance: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-11-08T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "VPN Health by Region",
+    "name": "VPN Health by Region",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-10-14T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Workload Management Activity: Deployment",
+    "name": "Workload Management Activity: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "created": "2025-10-09T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Table Formatting",
+    "name": "Table Formatting",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-11-24T12:00:00.000+00:00"
+  },
+  {
+    "dashboard": "Chart Scaling",
+    "name": "Chart Scaling",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "created": "2025-12-04T12:00:00.000+00:00"
+  }
+]

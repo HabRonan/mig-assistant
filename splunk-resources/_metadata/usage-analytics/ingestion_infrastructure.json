@@ -1,0 +1,263 @@
+{
+  "summary": [
+    {
+      "total_forwarding_hosts": "0"
+    }
+  ],
+  "dataInputsByApp": [
+    {
+      "eai:acl.app": "dynabridge_test",
+      "status": "disabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "dynabridge_test",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "introspection_generator_addon",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "status": "disabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "search",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk-dashboard-studio",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk-rolling-upgrade",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk_monitoring_console",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk_secure_gateway",
+      "status": "disabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "splunk_secure_gateway",
+      "status": "enabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "system",
+      "status": "disabled",
+      "count": "1"
+    },
+    {
+      "eai:acl.app": "system",
+      "status": "enabled",
+      "count": "1"
+    }
+  ],
+  "scriptedInputs": [
+    {
+      "eai:acl.app": "introspection_generator_addon",
+      "disabled": "0",
+      "interval": "0",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 */4 * * *",
+      "count": "5",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 1 */1 * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 4 */1 * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 4,16 */1 * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 6 * * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 6 * * 1",
+      "count": "3",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "0 7,19 */1 * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "0",
+      "interval": "42 4,16 * * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "python_upgrade_readiness_app",
+      "disabled": "1",
+      "interval": "3600",
+      "count": "1",
+      "status": "disabled"
+    },
+    {
+      "eai:acl.app": "search",
+      "disabled": "0",
+      "interval": "* * * * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk-dashboard-studio",
+      "disabled": "0",
+      "interval": "-1",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk-rolling-upgrade",
+      "disabled": "0",
+      "interval": "-1",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "-1",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "0 0 * * *",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "15 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "25 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "35 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "45 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "5 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_instrumentation",
+      "disabled": "0",
+      "interval": "55 * * * *",
+      "count": "2",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_monitoring_console",
+      "disabled": "0",
+      "interval": "-1",
+      "count": "1",
+      "status": "enabled"
+    },
+    {
+      "eai:acl.app": "splunk_monitoring_console",
+      "disabled": "0",
+      "interval": "3600",
+      "count": "1",
+      "status": "enabled"
+    }
+  ],
+  "byInputMethod": [],
+  "syslogInputs": [],
+  "hecUsage": [
+    {
+      "token_count": "0"
+    }
+  ],
+  "forwardingHosts": [],
+  "bySourcetypeCategory": [
+    {
+      "category": "other",
+      "daily_avg_gb": "0.00",
+      "unique_hosts": "3",
+      "sourcetypes": [
+        "dynabridge:stress_test",
+        "dynabridge_test-too_small",
+        "test:logs"
+      ]
+    }
+  ],
+  "byConnectionType": []
+}

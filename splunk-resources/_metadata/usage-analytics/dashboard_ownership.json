@@ -1,0 +1,1954 @@
+[
+  {
+    "dashboard": "Datasets",
+    "name": "Datasets",
+    "title": "Datasets",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Reports",
+    "name": "Reports",
+    "title": "Reports",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "queues checks",
+    "name": "queues checks",
+    "title": "Queues Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Indexing Performance: Deployment",
+    "name": "Indexing Performance: Deployment",
+    "title": "Indexing Performance: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "MITRE ATT&CK",
+    "name": "MITRE ATT&CK",
+    "title": "Mitre Att&Ck",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Data Quality",
+    "name": "Data Quality",
+    "title": "Data Quality",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Scheduler Activity: Instance",
+    "name": "Scheduler Activity: Instance",
+    "title": "Scheduler Activity: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Task Templates",
+    "name": "Task Templates",
+    "title": "Task Templates",
+    "app": "splunk_rapid_diag",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Search Activity: Instance",
+    "name": "Search Activity: Instance",
+    "title": "Search Activity: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Search Activity: Deployment",
+    "name": "Search Activity: Deployment",
+    "title": "Search Activity: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Lateral Movement Indicators",
+    "name": "Lateral Movement Indicators",
+    "title": "Lateral Movement Indicators",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Volume Detail: Deployment",
+    "name": "Volume Detail: Deployment",
+    "title": "Volume Detail: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Error",
+    "name": "Error",
+    "title": "Error",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "File Prevalence Overview",
+    "name": "File Prevalence Overview",
+    "title": "File Prevalence Overview",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Alerts",
+    "name": "Alerts",
+    "title": "Alerts",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Job Details Dashboard",
+    "name": "Job Details Dashboard",
+    "title": "Job Details Dashboard",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Resource Usage: Machine",
+    "name": "Resource Usage: Machine",
+    "title": "Resource Usage: Machine",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Workload Management Overview",
+    "name": "Workload Management Overview",
+    "title": "Workload Management Overview",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Resource Usage: Deployment",
+    "name": "Resource Usage: Deployment",
+    "title": "Resource Usage: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Forwarders: Deployment",
+    "name": "Forwarders: Deployment",
+    "title": "Forwarders: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Search Head Clustering: Status and Configuration",
+    "name": "Search Head Clustering: Status and Configuration",
+    "title": "Search Head Clustering: Status And Configuration",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "CPU Usage: Deployment",
+    "name": "CPU Usage: Deployment",
+    "title": "Cpu Usage: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "License Usage - Today",
+    "name": "License Usage - Today",
+    "title": "License Usage   Today",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Historic License Usage",
+    "name": "Historic License Usage",
+    "title": "Historic License Usage",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "File Access whitelist editor",
+    "name": "File Access whitelist editor",
+    "title": "File Access Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Splunk TCP Input Performance: Deployment",
+    "name": "Splunk TCP Input Performance: Deployment",
+    "title": "Splunk Tcp Input Performance: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Threat Hunting trigger overview",
+    "name": "Threat Hunting trigger overview",
+    "title": "Threat Hunting Trigger Overview",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Computer Investigator",
+    "name": "Computer Investigator",
+    "title": "Computer Investigator",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Index Detail: Instance",
+    "name": "Index Detail: Instance",
+    "title": "Index Detail: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Report",
+    "name": "Report",
+    "title": "Report",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Search Head Clustering: App Deployment",
+    "name": "Search Head Clustering: App Deployment",
+    "title": "Search Head Clustering: App Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Task Manager",
+    "name": "Task Manager",
+    "title": "Task Manager",
+    "app": "splunk_rapid_diag",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "system health monitor",
+    "name": "system health monitor",
+    "title": "System Health Monitor",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "data quality checks",
+    "name": "data quality checks",
+    "title": "Data Quality Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Search",
+    "name": "Search",
+    "title": "Search",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Self Register",
+    "name": "Self Register",
+    "title": "Self Register",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Health Check Items",
+    "name": "Health Check Items",
+    "title": "Health Check Items",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "DNS whitelist editor",
+    "name": "DNS whitelist editor",
+    "title": "Dns Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Sysmon Tuning",
+    "name": "Sysmon Tuning",
+    "title": "Sysmon Tuning",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Python Version",
+    "name": "Python Version",
+    "title": "Python Version",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "DNS Stacking",
+    "name": "DNS Stacking",
+    "title": "Dns Stacking",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Advanced Charting",
+    "name": "Advanced Charting",
+    "title": "Advanced Charting",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "User drilldown",
+    "name": "User drilldown",
+    "title": "User Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Remote Thread whitelist editor",
+    "name": "Remote Thread whitelist editor",
+    "title": "Remote Thread Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Workload Management Activity: Instance",
+    "name": "Workload Management Activity: Instance",
+    "title": "Workload Management Activity: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Sysmon Events",
+    "name": "Sysmon Events",
+    "title": "Sysmon Events",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Search Head Clustering: Configuration Replication",
+    "name": "Search Head Clustering: Configuration Replication",
+    "title": "Search Head Clustering: Configuration Replication",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Search Usage Statistics: Instance",
+    "name": "Search Usage Statistics: Instance",
+    "title": "Search Usage Statistics: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Indexer Clustering: Status",
+    "name": "Indexer Clustering: Status",
+    "title": "Indexer Clustering: Status",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Data Collection",
+    "name": "Data Collection",
+    "title": "Data Collection",
+    "app": "splunk_rapid_diag",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "SmartStore Activity: Deployment",
+    "name": "SmartStore Activity: Deployment",
+    "title": "Smartstore Activity: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Indexes and Volumes: Deployment",
+    "name": "Indexes and Volumes: Deployment",
+    "title": "Indexes And Volumes: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Report Builder",
+    "name": "Report Builder",
+    "title": "Report Builder",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Health Check",
+    "name": "Health Check",
+    "title": "Health Check",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Registry whitelist editor",
+    "name": "Registry whitelist editor",
+    "title": "Registry Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Live Tail",
+    "name": "Live Tail",
+    "title": "Live Tail",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Overview",
+    "name": "Overview",
+    "title": "Overview",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Macro Drilldown",
+    "name": "Macro Drilldown",
+    "title": "Macro Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Secure Gateway Status Dashboard",
+    "name": "Secure Gateway Status Dashboard",
+    "title": "Secure Gateway Status Dashboard",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Alerts Setup",
+    "name": "Alerts Setup",
+    "title": "Alerts Setup",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Dashboards",
+    "name": "Dashboards",
+    "title": "Dashboards",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Process Create whitelist editor",
+    "name": "Process Create whitelist editor",
+    "title": "Process Create Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Mod Setup",
+    "name": "Mod Setup",
+    "title": "Mod Setup",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Search",
+    "name": "Search",
+    "title": "Search",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Instances",
+    "name": "Instances",
+    "title": "Instances",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Alert",
+    "name": "Alert",
+    "title": "Alert",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "MITRE ATT&CK Stacking",
+    "name": "MITRE ATT&CK Stacking",
+    "title": "Mitre Att&Ck Stacking",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "HTTP Event Collector: Deployment",
+    "name": "HTTP Event Collector: Deployment",
+    "title": "Http Event Collector: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Not available in standalone mode",
+    "name": "Not available in standalone mode",
+    "title": "Not Available In Standalone Mode",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Scheduler Activity: Deployment",
+    "name": "Scheduler Activity: Deployment",
+    "title": "Scheduler Activity: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Integrity Check of Installed Files",
+    "name": "Integrity Check of Installed Files",
+    "title": "Integrity Check Of Installed Files",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "HTTP Event Collector: Instance",
+    "name": "HTTP Event Collector: Instance",
+    "title": "Http Event Collector: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Search based drilldown",
+    "name": "Search based drilldown",
+    "title": "Search Based Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Search Head Clustering: Scheduler Delegation",
+    "name": "Search Head Clustering: Scheduler Delegation",
+    "title": "Search Head Clustering: Scheduler Delegation",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Single Value Test",
+    "name": "Single Value Test",
+    "title": "Single Value Test",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Splunk Platform Compatibility Scan",
+    "name": "Splunk Platform Compatibility Scan",
+    "title": "Splunk Platform Compatibility Scan",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "jQuery Scan",
+    "name": "jQuery Scan",
+    "title": "Jquery Scan",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Summary",
+    "name": "Summary",
+    "title": "Summary",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Analytics",
+    "name": "Analytics",
+    "title": "Analytics",
+    "app": "splunk_metrics_workspace",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Subscription Tracing",
+    "name": "Subscription Tracing",
+    "title": "Subscription Tracing",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Index Detail: Deployment",
+    "name": "Index Detail: Deployment",
+    "title": "Index Detail: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Rare process chains, based on raw events",
+    "name": "Rare process chains, based on raw events",
+    "title": "Rare Process Chains, Based On Raw Events",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Datasets",
+    "name": "Datasets",
+    "title": "Datasets",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Pipe Name Drilldown",
+    "name": "Pipe Name Drilldown",
+    "title": "Pipe Name Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Knowledge Bundle Replication",
+    "name": "Knowledge Bundle Replication",
+    "title": "Knowledge Bundle Replication",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Field Extractor",
+    "name": "Field Extractor",
+    "title": "Field Extractor",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Triggered Alerts - Splunk",
+    "name": "Triggered Alerts - Splunk",
+    "title": "Triggered Alerts   Splunk",
+    "app": "system",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Image Load whitelist editor",
+    "name": "Image Load whitelist editor",
+    "title": "Image Load Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Datasets",
+    "name": "Datasets",
+    "title": "Datasets",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Workload Management Monitoring: Distributed",
+    "name": "Workload Management Monitoring: Distributed",
+    "title": "Workload Management Monitoring: Distributed",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Indexes and Volumes: Instance",
+    "name": "Indexes and Volumes: Instance",
+    "title": "Indexes And Volumes: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Show Source",
+    "name": "Show Source",
+    "title": "Show Source",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "ParentProcess GUID Drilldown",
+    "name": "ParentProcess GUID Drilldown",
+    "title": "Parentprocess Guid Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Orphaned Scheduled Searches, Reports, and Alerts",
+    "name": "Orphaned Scheduled Searches, Reports, and Alerts",
+    "title": "Orphaned Scheduled Searches, Reports, And Alerts",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Workload Management Activity: Deployment",
+    "name": "Workload Management Activity: Deployment",
+    "title": "Workload Management Activity: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Job Manager",
+    "name": "Job Manager",
+    "title": "Job Manager",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Data Model Editor",
+    "name": "Data Model Editor",
+    "title": "Data Model Editor",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Analytics",
+    "name": "Analytics",
+    "title": "Analytics",
+    "app": "splunk_metrics_workspace",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Workload Management Monitoring: Instance",
+    "name": "Workload Management Monitoring: Instance",
+    "title": "Workload Management Monitoring: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "General Setup",
+    "name": "General Setup",
+    "title": "General Setup",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Forwarder Monitoring Setup",
+    "name": "Forwarder Monitoring Setup",
+    "title": "Forwarder Monitoring Setup",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Workload Management Admission Control: Distributed",
+    "name": "Workload Management Admission Control: Distributed",
+    "title": "Workload Management Admission Control: Distributed",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Administration",
+    "name": "Administration",
+    "title": "Administration",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Table",
+    "name": "Table",
+    "title": "Table",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Distributed Search: Deployment",
+    "name": "Distributed Search: Deployment",
+    "title": "Distributed Search: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "SmartStore Cache Performance: Instance",
+    "name": "SmartStore Cache Performance: Instance",
+    "title": "Smartstore Cache Performance: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "SmartStore Activity: Instance",
+    "name": "SmartStore Activity: Instance",
+    "title": "Smartstore Activity: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Search Usage Statistics: Deployment",
+    "name": "Search Usage Statistics: Deployment",
+    "title": "Search Usage Statistics: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Datasets",
+    "name": "Datasets",
+    "title": "Datasets",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Computer Drilldown",
+    "name": "Computer Drilldown",
+    "title": "Computer Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Request Tracing",
+    "name": "Request Tracing",
+    "title": "Request Tracing",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "search checks",
+    "name": "search checks",
+    "title": "Search Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Volume Detail: Instance",
+    "name": "Volume Detail: Instance",
+    "title": "Volume Detail: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "WMI whitelist editor",
+    "name": "WMI whitelist editor",
+    "title": "Wmi Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Cascading Replication",
+    "name": "Cascading Replication",
+    "title": "Cascading Replication",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "CPU Usage: Instance",
+    "name": "CPU Usage: Instance",
+    "title": "Cpu Usage: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Overview Preferences",
+    "name": "Overview Preferences",
+    "title": "Overview Preferences",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "KV Store Collections Status",
+    "name": "KV Store Collections Status",
+    "title": "Kv Store Collections Status",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "SmartStore Cache Performance: Deployment",
+    "name": "SmartStore Cache Performance: Deployment",
+    "title": "Smartstore Cache Performance: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "License Usage",
+    "name": "License Usage",
+    "title": "License Usage",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "MDM with SAML",
+    "name": "MDM with SAML",
+    "title": "Mdm With Saml",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "MITRE Coverage",
+    "name": "MITRE Coverage",
+    "title": "Mitre Coverage",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Summary",
+    "name": "Summary",
+    "title": "Summary",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "File Created whitelist editor",
+    "name": "File Created whitelist editor",
+    "title": "File Created Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Network whitelist editor",
+    "name": "Network whitelist editor",
+    "title": "Network Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": " SOC2 Compliance Opt In Page ",
+    "name": " SOC2 Compliance Opt In Page ",
+    "title": " Soc2 Compliance Opt In Page ",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Workload Management Admission Control: Instance",
+    "name": "Workload Management Admission Control: Instance",
+    "title": "Workload Management Admission Control: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Resource Usage: Instance",
+    "name": "Resource Usage: Instance",
+    "title": "Resource Usage: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Setting Scan",
+    "name": "Setting Scan",
+    "title": "Setting Scan",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Forwarders: Instance",
+    "name": "Forwarders: Instance",
+    "title": "Forwarders: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "disk checks",
+    "name": "disk checks",
+    "title": "Disk Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "PowerShell Events",
+    "name": "PowerShell Events",
+    "title": "Powershell Events",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "core checks",
+    "name": "core checks",
+    "title": "Core Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "About this app",
+    "name": "About this app",
+    "title": "About This App",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Python Scan",
+    "name": "Python Scan",
+    "title": "Python Scan",
+    "app": "python_upgrade_readiness_app",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "File Create Drilldown",
+    "name": "File Create Drilldown",
+    "title": "File Create Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Data Model Manager",
+    "name": "Data Model Manager",
+    "title": "Data Model Manager",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Recent SSG Dashboard Activity",
+    "name": "Recent SSG Dashboard Activity",
+    "title": "Recent Ssg Dashboard Activity",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Report Builder",
+    "name": "Report Builder",
+    "title": "Report Builder",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Distributed Search: Instance",
+    "name": "Distributed Search: Instance",
+    "title": "Distributed Search: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Network Connection Drilldown",
+    "name": "Network Connection Drilldown",
+    "title": "Network Connection Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Indexing Performance: Advanced",
+    "name": "Indexing Performance: Advanced",
+    "title": "Indexing Performance: Advanced",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Internal Admin Nav",
+    "name": "Internal Admin Nav",
+    "title": "Internal Admin Nav",
+    "app": "system",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Newly observed hashes",
+    "name": "Newly observed hashes",
+    "title": "Newly Observed Hashes",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Home",
+    "name": "Home",
+    "title": "Home",
+    "app": "launcher",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "KV Store: Instance",
+    "name": "KV Store: Instance",
+    "title": "Kv Store: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Indexing Performance: Instance",
+    "name": "Indexing Performance: Instance",
+    "title": "Indexing Performance: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Search Head Clustering: Artifact Replication",
+    "name": "Search Head Clustering: Artifact Replication",
+    "title": "Search Head Clustering: Artifact Replication",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Splunk TCP Input Performance: Instance",
+    "name": "Splunk TCP Input Performance: Instance",
+    "title": "Splunk Tcp Input Performance: Instance",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Pipe Created whitelist editor",
+    "name": "Pipe Created whitelist editor",
+    "title": "Pipe Created Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Display Report",
+    "name": "Display Report",
+    "title": "Display Report",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Jobs",
+    "name": "Jobs",
+    "title": "Jobs",
+    "app": "system",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Display Report",
+    "name": "Display Report",
+    "title": "Display Report",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Reference Guide",
+    "name": "Reference Guide",
+    "title": "Reference Guide",
+    "app": "splunk_rapid_diag",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "jQuery Upgrade",
+    "name": "jQuery Upgrade",
+    "title": "Jquery Upgrade",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Process Access whitelist editor",
+    "name": "Process Access whitelist editor",
+    "title": "Process Access Whitelist Editor",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "SAML Troubleshooting Dashboard",
+    "name": "SAML Troubleshooting Dashboard",
+    "title": "Saml Troubleshooting Dashboard",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Process GUID Drilldown",
+    "name": "Process GUID Drilldown",
+    "title": "Process Guid Drilldown",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Splunk Archiver",
+    "name": "Splunk Archiver",
+    "title": "Splunk Archiver",
+    "app": "splunk_archiver",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Dataset",
+    "name": "Dataset",
+    "title": "Dataset",
+    "app": "search",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "KV Store: Deployment",
+    "name": "KV Store: Deployment",
+    "title": "Kv Store: Deployment",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Asset Priority",
+    "name": "Asset Priority",
+    "title": "Asset Priority",
+    "app": "ThreatHunting",
+    "owner": "admin",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "app validation checks",
+    "name": "app validation checks",
+    "title": "App Validation Checks",
+    "app": "splunk_quick_health_check",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "End-to-End Websocket Test",
+    "name": "End-to-End Websocket Test",
+    "title": "End To End Websocket Test",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Indexer Clustering: Service Activity",
+    "name": "Indexer Clustering: Service Activity",
+    "title": "Indexer Clustering: Service Activity",
+    "app": "splunk_monitoring_console",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Secure Gateway Subscription Inspector",
+    "name": "Secure Gateway Subscription Inspector",
+    "title": "Secure Gateway Subscription Inspector",
+    "app": "splunk_secure_gateway",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Chart Scaling",
+    "name": "Chart Scaling",
+    "title": "Chart Scaling",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Filler Gauge",
+    "name": "Filler Gauge",
+    "title": "Filler Gauge",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Parallel Coordinates",
+    "name": "Parallel Coordinates",
+    "title": "Parallel Coordinates",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Airport KPIs",
+    "name": "Airport KPIs",
+    "title": "Airport Kpis",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Text Input",
+    "name": "Text Input",
+    "title": "Text Input",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Shapes and Lines",
+    "name": "Shapes and Lines",
+    "title": "Shapes And Lines",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Icon Coloring",
+    "name": "Icon Coloring",
+    "title": "Icon Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Buttercup Games",
+    "name": "Buttercup Games",
+    "title": "Buttercup Games",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Punchcard Coloring",
+    "name": "Punchcard Coloring",
+    "title": "Punchcard Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Pie",
+    "name": "Pie",
+    "title": "Pie",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Choropleth SVG",
+    "name": "Choropleth SVG",
+    "title": "Choropleth Svg",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Sankey Diagram",
+    "name": "Sankey Diagram",
+    "title": "Sankey Diagram",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Filler Gauge Coloring",
+    "name": "Filler Gauge Coloring",
+    "title": "Filler Gauge Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Markdown",
+    "name": "Markdown",
+    "title": "Markdown",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Table",
+    "name": "Table",
+    "title": "Table",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Punchcard Sizing",
+    "name": "Punchcard Sizing",
+    "title": "Punchcard Sizing",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Moving SVGs",
+    "name": "Moving SVGs",
+    "title": "Moving Svgs",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Test Data Source",
+    "name": "Test Data Source",
+    "title": "Test Data Source",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Data Streaming",
+    "name": "Data Streaming",
+    "title": "Data Streaming",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Saved Search Data Source",
+    "name": "Saved Search Data Source",
+    "title": "Saved Search Data Source",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Scatter",
+    "name": "Scatter",
+    "title": "Scatter",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Map",
+    "name": "Map",
+    "title": "Map",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Marker Gauge",
+    "name": "Marker Gauge",
+    "title": "Marker Gauge",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Single Value Radial",
+    "name": "Single Value Radial",
+    "title": "Single Value Radial",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Europe Telecom Network Hub",
+    "name": "Europe Telecom Network Hub",
+    "title": "Europe Telecom Network Hub",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Emergency Department Care",
+    "name": "Emergency Department Care",
+    "title": "Emergency Department Care",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Bar",
+    "name": "Bar",
+    "title": "Bar",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Drilldown to Custom URL",
+    "name": "Drilldown to Custom URL",
+    "title": "Drilldown To Custom Url",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Chart Coloring",
+    "name": "Chart Coloring",
+    "title": "Chart Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Home",
+    "name": "Home",
+    "title": "Home",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Base and Chain Data Sources",
+    "name": "Base and Chain Data Sources",
+    "title": "Base And Chain Data Sources",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Customer Satisfaction",
+    "name": "Customer Satisfaction",
+    "title": "Customer Satisfaction",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Assembly Line",
+    "name": "Assembly Line",
+    "title": "Assembly Line",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Multiselect",
+    "name": "Multiselect",
+    "title": "Multiselect",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Text",
+    "name": "Text",
+    "title": "Text",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Refresh",
+    "name": "Refresh",
+    "title": "Refresh",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Progress Bar",
+    "name": "Progress Bar",
+    "title": "Progress Bar",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Images",
+    "name": "Images",
+    "title": "Images",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Marker Gauge Coloring",
+    "name": "Marker Gauge Coloring",
+    "title": "Marker Gauge Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "dashboard",
+    "name": "dashboard",
+    "title": "Dashboard",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Table Coloring",
+    "name": "Table Coloring",
+    "title": "Table Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Cascading Inputs",
+    "name": "Cascading Inputs",
+    "title": "Cascading Inputs",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Table Formatting",
+    "name": "Table Formatting",
+    "title": "Table Formatting",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Static Choropleth - US Map",
+    "name": "Static Choropleth - US Map",
+    "title": "Static Choropleth   Us Map",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Workforce Readiness",
+    "name": "Workforce Readiness",
+    "title": "Workforce Readiness",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Radial Coloring",
+    "name": "Radial Coloring",
+    "title": "Radial Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Display Axis, Labels, Legends",
+    "name": "Display Axis, Labels, Legends",
+    "title": "Display Axis, Labels, Legends",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "VPN Health by Region",
+    "name": "VPN Health by Region",
+    "title": "Vpn Health By Region",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Set Token Drilldown",
+    "name": "Set Token Drilldown",
+    "title": "Set Token Drilldown",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Set a Token Default",
+    "name": "Set a Token Default",
+    "title": "Set A Token Default",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Datacenter Sensors",
+    "name": "Datacenter Sensors",
+    "title": "Datacenter Sensors",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Dropdown",
+    "name": "Dropdown",
+    "title": "Dropdown",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Single Value Coloring",
+    "name": "Single Value Coloring",
+    "title": "Single Value Coloring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Punchcard",
+    "name": "Punchcard",
+    "title": "Punchcard",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Link Graph",
+    "name": "Link Graph",
+    "title": "Link Graph",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Data Command and Control",
+    "name": "Data Command and Control",
+    "title": "Data Command And Control",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Healthcare Dashboard",
+    "name": "Healthcare Dashboard",
+    "title": "Healthcare Dashboard",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Ad Hoc Data Source",
+    "name": "Ad Hoc Data Source",
+    "title": "Ad Hoc Data Source",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Column",
+    "name": "Column",
+    "title": "Column",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "E-Commerce Monitoring",
+    "name": "E-Commerce Monitoring",
+    "title": "E Commerce Monitoring",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "VPN Health by Region",
+    "name": "VPN Health by Region",
+    "title": "Vpn Health By Region",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "VPN Health by Region",
+    "name": "VPN Health by Region",
+    "title": "Vpn Health By Region",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Static Choropleth - World Map",
+    "name": "Static Choropleth - World Map",
+    "title": "Static Choropleth   World Map",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Single Value Emoji",
+    "name": "Single Value Emoji",
+    "title": "Single Value Emoji",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Chart Annotations",
+    "name": "Chart Annotations",
+    "title": "Chart Annotations",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Time Range Input",
+    "name": "Time Range Input",
+    "title": "Time Range Input",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Single Value",
+    "name": "Single Value",
+    "title": "Single Value",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Bubble",
+    "name": "Bubble",
+    "title": "Bubble",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Number Input",
+    "name": "Number Input",
+    "title": "Number Input",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Area",
+    "name": "Area",
+    "title": "Area",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "user"
+  },
+  {
+    "dashboard": "Chart Overlays",
+    "name": "Chart Overlays",
+    "title": "Chart Overlays",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Single Value Icon",
+    "name": "Single Value Icon",
+    "title": "Single Value Icon",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Data Governance",
+    "name": "Data Governance",
+    "title": "Data Governance",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Line",
+    "name": "Line",
+    "title": "Line",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Set Token from Search",
+    "name": "Set Token from Search",
+    "title": "Set Token From Search",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Workforce Readiness Detail",
+    "name": "Workforce Readiness Detail",
+    "title": "Workforce Readiness Detail",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "app"
+  },
+  {
+    "dashboard": "Employee Device Security",
+    "name": "Employee Device Security",
+    "title": "Employee Device Security",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  },
+  {
+    "dashboard": "Icons",
+    "name": "Icons",
+    "title": "Icons",
+    "app": "splunk-dashboard-studio",
+    "owner": "nobody",
+    "sharing": "global"
+  }
+]
